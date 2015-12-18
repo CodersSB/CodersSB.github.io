@@ -17,6 +17,7 @@ It is fine to just have placeholders for this part
 - A description on our club. Who, what, why, where. 
 - Links on how to contact us, email, etc.
 - Links to our social media
+- Google calender of our events
 
 ###Other page ideas
 ####Officers page
